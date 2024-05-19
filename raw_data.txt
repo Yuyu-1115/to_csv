@@ -1,0 +1,160 @@
+NO
+許可證/
+登錄字號
+有效日期
+中文品名
+英文品名
+醫療器材商
+製造業者
+限制項目
+1
+衛部醫器輸壹登字
+第000161號
+114-10-31
+西斯美快速白血球分類染色液 (未滅菌)
+SYSMEX DIFF QUIK (Non-Sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION Seishin Factory
+R02 輸 入
+2
+衛部醫器輸壹登字
+第012047號
+113-10-31
+〝希森美康〞 血小板染色液 (未滅菌)
+〝Sysmex〞 Fluorocell PLT (Non-sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION Ono Factory
+R02 輸 入
+3
+衛部醫器輸壹登字
+第012048號
+113-10-31
+〝希森美康〞 網狀紅血球染色液 (未滅菌)
+〝Sysmex〞 Fluorocell RET (Non-sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION Ono Factory
+R02 輸 入
+4
+衛部醫器輸壹登字
+第012049號
+113-10-31
+〝希森美康〞 白血球染色液 (未滅菌)
+〝Sysmex〞 Fluorocell WDF (Non-sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION Ono Factory
+R02 輸 入
+5
+衛部醫器輸壹登字
+第012118號
+113-10-31
+〝希森美康〞 有核細胞染色液 (未滅菌)
+〝Sysmex〞 Fluorocell WNR (Non-sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION Ono Factory
+R02 輸 入
+6
+衛部醫器輸壹登字
+第012119號
+113-10-31
+〝希森美康〞 白血球染色液 (未滅菌)
+〝Sysmex〞 Fluorocell WPC (Non-sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION Ono Factory
+R02 輸 入
+7
+衛部醫器輸壹登字
+第014693號
+114-10-31
+“希森美康”自動化試管輸送裝置 (未滅菌)
+“Sysmex” Automated Tube Sorter (Non-sterile)
+台灣希森美康股份有限公司
+SYSMEX RA CO., LTD.
+R02 輸 入
+R06 QMS/QSD
+8
+衛部醫器輸壹登字
+第015688號
+114-10-31
+"希森美康" 全自動免疫分析儀 (未滅菌)
+"Sysmex" Automated Immunoassay System HISCL-800 (Non-Sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION, I-SQUARE
+R02 輸 入
+R06 QMS/QSD
+9
+衛部醫器輸壹登字
+第015689號
+114-10-31
+"希森美康" 全自動免疫分析儀 (未滅菌)
+"Sysmex" Automated Immunoassay System HISCL-5000 (Non-Sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION, I-SQUARE
+R02 輸 入
+R06 QMS/QSD
+10
+衛部醫器輸壹登字
+第016311號
+115-10-31
+"希森美康" 全自動尿液分析儀 (未滅菌)
+"Sysmex" Fully Automated Urine Chemistry Analyzer UC-3500 (non-sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION, I-SQUARE
+R02 輸 入
+R06 QMS/QSD
+11
+衛部醫器輸壹登字
+第016432號
+115-10-31
+"希森美康" 尿液分析用染色液 (未滅菌)
+"Sysmex" UF-Fluorocell SF (Non-Sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION Ono Factory
+R02 輸 入
+12
+衛部醫器輸壹登字
+第016433號
+115-10-31
+"希森美康" 尿液分析用染色液 (未滅菌)
+"Sysmex" UF-Fluorocell CR (Non-Sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION Ono Factory
+R02 輸 入
+13
+衛部醫器輸壹登字
+第019132號
+113-10-31
+"希森美康" 全自動尿沉渣數位影像設備(未滅菌)
+"Sysmex" Fully Automated Urine Particle Digital Imaging Device (Non-sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION, I-SQUARE
+R02 輸 入
+14
+衛部醫器輸壹登字
+第019732號
+113-10-31
+"希森美康" 半自動尿液化學分析儀(未滅菌)
+"SYSMEX" Semi-Automated Urine Chemistry Analyzer UC-1000 (Non-Sterile)
+台灣希森美康股份有限公司
+komatsu Electronics Co., Ltd.
+R02 輸 入
+R05 委託製造
+R06 QMS/QSD
+15
+衛部醫器輸壹登字
+第022199號
+115-10-31
+"希森美康" 全自動免疫分析儀 (未滅菌)
+"Sysmex" Automated Immunoassay Analyzer (Non-sterile)
+台灣希森美康股份有限公司
+SYSMEX CORPORATION, I-SQUARE
+R02 輸 入
+R06 QMS/QSD
+16
+衛部醫器輸壹登字
+第022449號
+115-10-31
+"希森美康" 染料及化學溶液染料 (未滅菌)
+“SYSMEX“ Dye and chemical solution stains (Non-Sterile)
+台灣希森美康股份有限公司
+RAL DIAGNOSTICS
+R02 輸 入
